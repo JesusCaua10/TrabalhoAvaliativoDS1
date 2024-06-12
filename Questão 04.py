@@ -1,4 +1,4 @@
-vr_string = "Programação é ótimo"
+vr_string = input("Diga uma frase: ")
 vr_ult = vr_string[-1]
 print(f"'{vr_string}'")
 print(f"o tamanho da frase é '{len(vr_string)}'")
